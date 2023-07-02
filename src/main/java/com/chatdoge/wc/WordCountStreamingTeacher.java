@@ -15,7 +15,7 @@ import org.apache.flink.util.Collector;
  * @author cjp
  * @version 1.0
  */
-public class word_count_streaming_demo {
+public class WordCountStreamingTeacher {
     public static void main(String[] args) throws Exception {
         // TODO 1.创建执行环境
         StreamExecutionEnvironment env = StreamExecutionEnvironment.getExecutionEnvironment();
