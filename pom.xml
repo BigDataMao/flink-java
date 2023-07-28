@@ -27,6 +27,7 @@
             <version>${flink.version}</version>
         </dependency>
 
+        <!--解决报错:SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder"-->
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-nop</artifactId>
