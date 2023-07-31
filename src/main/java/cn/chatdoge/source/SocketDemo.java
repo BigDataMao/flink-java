@@ -4,7 +4,7 @@ import org.apache.flink.streaming.api.datastream.DataStreamSource;
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 
 /**
- * TODO
+ * 从模拟的通讯端点接收数据,比较简单
  *
  * @author simon.mau
  * @date 2023/7/29
